@@ -1,0 +1,5 @@
+﻿  EncDec.cpp
+C:\Users\kosta\Desktop\2η Εργασια Κρυπτογραφιας\cryptoproject\EncDec.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kosta\Desktop\2η Εργασια Κρυπτογραφιας\cryptoproject\EncDec.cpp(184,18): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\kosta\Desktop\2η Εργασια Κρυπτογραφιας\cryptoproject\EncDec.cpp(20,7): warning C4101: 'ans': unreferenced local variable
+  Project1.vcxproj -> C:\Users\kosta\Desktop\2η Εργασια Κρυπτογραφιας\cryptoproject\Debug\Project1.exe
